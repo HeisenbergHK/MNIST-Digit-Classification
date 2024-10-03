@@ -54,7 +54,7 @@ The necessary libraries like `numpy`, `matplotlib`, `seaborn`, and `keras` are i
 - After training, the model's accuracy is evaluated on the test set.
 - The `argmax` function is used to convert the predicted probabilities into predicted class labels.
 
-![Misclassifications](https://i.postimg.cc/yJZBQ5tZ/confusion-matrix.png)
+![prediction example](https://github.com/user-attachments/assets/42d1ba55-8252-42d2-99cc-6340f29f47b6)
 
 ### 7. **Confusion Matrix**
 
