@@ -6,7 +6,7 @@ This project demonstrates how to build a simple neural network for classifying h
 
 1. **Clone the Repository**: Download or clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone git@github.com:HeisenbergHK/MNIST-Digit-Classification.git
     ```
    
 2. **Open in Google Colab**: 
