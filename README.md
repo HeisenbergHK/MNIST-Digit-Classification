@@ -61,14 +61,14 @@ The necessary libraries like `numpy`, `matplotlib`, `seaborn`, and `keras` are i
 - A confusion matrix is generated to visualize the performance of the model across all classes.
 - The matrix is plotted using Seaborn for better readability.
 
-[Confusion Matrix](https://ibb.co/gmRhqqf)
+![confusion matrix](https://github.com/user-attachments/assets/7b5434a3-bbd3-4872-b543-27f55390a0ee)
 
 ### 8. **Investigating Errors**
 
 - The samples where the model made incorrect predictions are identified.
 - The top 10 errors (where the model was most confident in its incorrect prediction) are displayed alongside the true and predicted labels.
 
-[Misclassifications](https://ibb.co/pXHLMDp)
+![Uploading errors.png…]()
 
 ## Results
 
