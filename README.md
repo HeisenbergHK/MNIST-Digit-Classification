@@ -54,15 +54,21 @@ The necessary libraries like `numpy`, `matplotlib`, `seaborn`, and `keras` are i
 - After training, the model's accuracy is evaluated on the test set.
 - The `argmax` function is used to convert the predicted probabilities into predicted class labels.
 
+[Misclassifications](https://ibb.co/1ZSD3F7)
+
 ### 7. **Confusion Matrix**
 
 - A confusion matrix is generated to visualize the performance of the model across all classes.
 - The matrix is plotted using Seaborn for better readability.
 
+[Confusion Matrix](https://ibb.co/gmRhqqf)
+
 ### 8. **Investigating Errors**
 
 - The samples where the model made incorrect predictions are identified.
 - The top 10 errors (where the model was most confident in its incorrect prediction) are displayed alongside the true and predicted labels.
+
+[Misclassifications](https://ibb.co/pXHLMDp)
 
 ## Results
 
