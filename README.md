@@ -68,7 +68,7 @@ The necessary libraries like `numpy`, `matplotlib`, `seaborn`, and `keras` are i
 - The samples where the model made incorrect predictions are identified.
 - The top 10 errors (where the model was most confident in its incorrect prediction) are displayed alongside the true and predicted labels.
 
-![Uploading errors.png…]()
+![errors](https://github.com/user-attachments/assets/5be1438a-cada-43de-9dba-63bfb424327d)
 
 ## Results
 
